@@ -1,3 +1,13 @@
+**************************************************************************
+This file provides the results obtained by BaBar for the process
+e+ e- --> pi+ pi- pi0 (gamma) using the ISR method near 10.58 GeV.
+It contains:
+
+The statistical covariance matrix in the same energy bins as given for the cross section values in Table IV
+from 0.62 to 1.1 GeV/c^2 (114 bins). 
+This matrix comes from the unfolding of the measured pi+ pi-pi0 mass distribution.
+***************************************************************************
+
 0.00739645005046
 0.00326898328473
 0.000671973164556
